@@ -20,18 +20,6 @@ class Menu extends Component {
 							<Link to="/">Home</Link>
 						</li>
 						<li>
-							<Link to="/profile">Profile</Link>
-						</li>
-						<li>
-							<Link to="/contact">Contact</Link>
-						</li>
-						<li>
-							<Link to="/documentasi">Documentation</Link>
-						</li>
-						<li>
-							<Link to="/userList">List User</Link>
-						</li>
-						<li>
 							<Link to="/dataproduk">Data Product</Link>
 						</li>
 						<li>

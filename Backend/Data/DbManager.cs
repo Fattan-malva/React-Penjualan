@@ -296,21 +296,44 @@ public class DbManager
         }
         return dataproduk;
     }
-
-    public int DeleteDataProduk(int id)
+    public bool HasRelatedTransactions(int produkId)
+{
+    int count = 0;
+    using (MySqlConnection connection = new MySqlConnection(_connectionString))
     {
-        using (MySqlConnection connection = new MySqlConnection(_connectionString))
+        string query = "SELECT COUNT(*) AS count FROM datatransaksi WHERE idproduk = @IdProduk";
+        using (MySqlCommand command = new MySqlCommand(query, connection))
         {
-            string query = "DELETE FROM dataproduk WHERE id = @Id";
-            using (MySqlCommand command = new MySqlCommand(query, connection))
-            {
-                command.Parameters.AddWithValue("@Id", id);
-
-                connection.Open();
-                return command.ExecuteNonQuery();
-            }
+            command.Parameters.AddWithValue("@IdProduk", produkId);
+            connection.Open();
+            count = Convert.ToInt32(command.ExecuteScalar());
         }
     }
+    return count > 0;
+}
+
+
+    public int DeleteDataProduk(int id)
+{
+    if (HasRelatedTransactions(id))
+    {
+        // Jika ada transaksi terkait, jangan hapus produk
+        throw new InvalidOperationException("Tidak dapat menghapus produk yang memiliki transaksi terkait.");
+    }
+
+    using (MySqlConnection connection = new MySqlConnection(_connectionString))
+    {
+        string query = "DELETE FROM dataproduk WHERE id = @Id";
+        using (MySqlCommand command = new MySqlCommand(query, connection))
+        {
+            command.Parameters.AddWithValue("@Id", id);
+
+            connection.Open();
+            return command.ExecuteNonQuery();
+        }
+    }
+}
+
 
     //Get All Investor
     public List<Investor> GetAllInvestor()

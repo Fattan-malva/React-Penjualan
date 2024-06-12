@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BELAJAR REACT UTS\\React Penjualan\\Backend\\Stackup.Api.csproj": {}
+    "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\Stackup.Api.csproj": {}
   },
   "projects": {
-    "D:\\BELAJAR REACT UTS\\React Penjualan\\Backend\\Stackup.Api.csproj": {
+    "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\Stackup.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BELAJAR REACT UTS\\React Penjualan\\Backend\\Stackup.Api.csproj",
+        "projectUniqueName": "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\Stackup.Api.csproj",
         "projectName": "Stackup.Api",
-        "projectPath": "D:\\BELAJAR REACT UTS\\React Penjualan\\Backend\\Stackup.Api.csproj",
+        "projectPath": "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\Stackup.Api.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\BELAJAR REACT UTS\\React Penjualan\\Backend\\obj\\",
+        "outputPath": "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

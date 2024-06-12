@@ -2,10 +2,6 @@ import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Menu from "./components/menu/Menu";
 import Home from "./components/home/Home";
-import Profile from "./components/profile/Profile";
-import Contact from "./components/contact/Contact";
-import Documentasi from "./components/documentasi/Documentasi";
-import UserList from "./views/UserList";
 import DataProduk from "./components/masterdata/produk/Produk";
 import ProdukAdd from "./components/masterdata/produk/ProdukAdd";
 import ProdukEdit from "./components/masterdata/produk/ProdukEdit";
@@ -24,10 +20,6 @@ function App() {
 			<div className="app-content">
 				<Routes>
 					<Route path="/" element={<Home />} />
-					<Route path="/profile" element={<Profile />} />
-					<Route path="/contact" element={<Contact />} />
-					<Route path="/documentasi" element={<Documentasi />} />
-					<Route path="/userList" element={<UserList />} />
 					<Route path="/dataProduk" element={<DataProduk />} />
 					<Route path="/dataTransaksi" element={<DataTransaksi />} />
 					<Route path="/dataproduk_add" element={<ProdukAdd />} />

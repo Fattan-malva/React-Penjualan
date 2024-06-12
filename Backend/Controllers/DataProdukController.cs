@@ -112,7 +112,7 @@ public class DataProdukController : ControllerBase
 
     // Delete: api/dataproduk/{id}
     
-    [HttpDelete("produk/ProdukEdit")]
+    [HttpDelete("produk/ProdukDelete")]
     public IActionResult DeleteDataproduk(int id)
     {
         try

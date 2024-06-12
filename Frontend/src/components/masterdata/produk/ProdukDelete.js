@@ -24,7 +24,7 @@ function ProdukDelete() {
   const fetchData = async () => {
     try {
       // Fetching data
-      const response = await axios.get(`https://localhost:7142/produk/ProdukGetById?id${id}`);
+      const response = await axios.get(`https://localhost:7142/produk/ProdukGetById?id=${id}`);
 
       // Get response data
       const data = await response.data;
@@ -56,7 +56,7 @@ function ProdukDelete() {
     event.preventDefault();
     try {
       // Make axios delete request
-      await axios.delete(`https://localhost:7142/produk/ProdukEdit?id=${id}`);
+      await axios.delete(`https://localhost:7142/produk/ProdukDelete?id=${id}`);
 
       // Redirect kembali ke master data setelah penghapusan berhasil
       window.location.href = "/dataproduk";
