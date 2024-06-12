@@ -1,0 +1,605 @@
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+D:\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+K:\Tugas it Programer Batc 6\Project Solution\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ref\Stackup.Api.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\UT\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+D:\UT\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+D:\ProjectPenjualan (3)\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+E:\UT School\DAY-14\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+D:\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+K:\Tugas it Programer Batc 6\ProjectPenjualan (2)\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\appsettings.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+D:\PEMBELAJARAN UTS\API BE\Day14\ProjectPenjualan_Kelompok_2_Final\ProjectPenjualan\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\appsettings.Development.json
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\appsettings.json
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Stackup.Api.exe
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Stackup.Api.deps.json
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Stackup.Api.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Stackup.Api.pdb
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Google.Protobuf.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\MySql.Data.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Text.Json.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\ZstdSharp.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\refint\Stackup.Api.dll
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.pdb
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+D:\BELAJAR REACT UTS\React Penjualan\Backend\obj\Debug\net6.0\ref\Stackup.Api.dll
