@@ -1,111 +1,122 @@
-import "./Karyawan.css";
+import "./Karyawan";
 import axios from "axios";
 import React from "react";
 
 function KaryawanAdd() {
-  const [formValue, setformValue] = React.useState({
-    id:"",
+  const [formValue, setFormValue] = React.useState({
+    id: "",
     nama_karyawan: "",
     tgl_lahir: "",
     jenis_kelamin: "",
     alamat: "",
-    noTlp   : "",
+    noTlp: "",
   });
 
   const handleChange = (event) => {
-    setformValue({
+    setFormValue({
       ...formValue,
       [event.target.name]: event.target.value,
     });
-  }
+  };
 
-  const handleSubmit = async () => {
-    // store the states in the form data
-    const FormDataInput = new FormData();
-    FormDataInput.append("id", formValue.id);
-    FormDataInput.append("nama_karyawan", formValue.nama_karyawan);
-    FormDataInput.append("tgl_lahir", formValue.tgl_lahir);
-    FormDataInput.append("jenis_kelamin", formValue.jenis_kelamin);
-    FormDataInput.append("alamat", formValue.alamat);
-    FormDataInput.append("noTlp", formValue.noTlp);
+  const handleSubmit = async (event) => {
+    event.preventDefault();
 
-    alert("Data berhasil disimpan");
     try {
-      // make axios post request
-      const response = await axios({
-        method: "post",
-        url: "https://localhost:7142/karyawan/KaryawanGet",
-        data: FormDataInput,
-        headers: { "Content-Type": "application/json" },
-      });
+      // Make axios post request
+      const response = await axios.post(
+        "https://localhost:7142/karyawan/KaryawanAdd",
+        {
+          id: formValue.id,
+          nama_karyawan: formValue.nama_karyawan,
+          tgl_lahir: formValue.tgl_lahir,
+          jenis_kelamin: formValue.jenis_kelamin,
+          alamat: formValue.alamat,
+          noTlp: formValue.noTlp,
+        },
+        {
+          headers: { "Content-Type": "application/json" },
+        }
+      );
+      window.location.href = "/datakaryawan";
+
       console.log(response);
+      alert("Data berhasil disimpan");
     } catch (error) {
-      console.log(error);
-      alert(error);
+      console.error(error);
+      alert("Terjadi kesalahan saat menyimpan data");
     }
-  }
+  };
 
   return (
     <div className="card">
       <div className="container">
-        <div className="Titel">Tambah Data Karyawan</div>
+        <div className="Titel">Tambah Data Produk</div>
         <div className="conten">
           <form onSubmit={handleSubmit}>
             <input
-              type="text"
+              type="number"
               name="id"
-              placeholder="enter Id"
+              placeholder="Enter ID"
               value={formValue.id}
               onChange={handleChange}
+              required
             />
             <br />
             <br />
             <input
               type="text"
               name="nama_karyawan"
-              placeholder="enter a Nama"
+              placeholder="Enter nama_karyawan"
               value={formValue.nama_karyawan}
               onChange={handleChange}
+              required
             />
             <br />
             <br />
             <input
-              type="text"
+              type="date"
               name="tgl_lahir"
-              placeholder="enter a tgl_lahir"
+              placeholder="Enter tgl_lahir"
               value={formValue.tgl_lahir}
               onChange={handleChange}
+              required
             />
             <br />
             <br />
             <input
               type="text"
               name="jenis_kelamin"
-              placeholder="enter a jenis_kelamin"
+              placeholder="Enter jenis_kelamin"
               value={formValue.jenis_kelamin}
               onChange={handleChange}
+              required
             />
             <br />
             <br />
             <input
               type="text"
               name="alamat"
-              placeholder="enter a alamat"
+              placeholder="Enter alamat"
               value={formValue.alamat}
               onChange={handleChange}
+              required
             />
             <br />
             <br />
             <input
               type="text"
               name="noTlp"
-              placeholder="enter a noTlp"
+              placeholder="Enter noTlp"
               value={formValue.noTlp}
               onChange={handleChange}
+              required
             />
             <br />
             <br />
-            <button type="submit" className="btn btn-primary">Simpan</button>
+            <button type="submit" className="btn btn-primary">
+              Simpan
+            </button>
           </form>
         </div>
       </div>
@@ -113,4 +124,4 @@ function KaryawanAdd() {
   );
 }
 
-    export default KaryawanAdd;
+export default KaryawanAdd;

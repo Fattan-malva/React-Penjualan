@@ -29,7 +29,7 @@ function KaryawanDelete() {
     try {
       //fetching
       const response = await axios.get(
-        `https://localhost:7278/api/Trainer/TrainerByNim?id=${id}`
+        `https://localhost:7142/karyawan/KaryawanGetById?id=${id}`
       );
       //get response data
       // Get response data
@@ -63,9 +63,9 @@ function KaryawanDelete() {
     event.preventDefault();
     try {
       // make axios post request
-      await axios.delete(`https://localhost:7278/api/Trainer/Delete?id=${id}`);
+      await axios.delete(`https://localhost:7142/karyawan/KaryawanDelete?id=${id}`);
       // Redirect back to the master data after successful deletion
-      window.location.href = "/datatrainer";
+      window.location.href = "/datakaryawan";
 
       alert("Data berhasil dihapus");
     } catch (error) {

@@ -31,7 +31,7 @@ public class KaryawanController : ControllerBase
     }
 
     // Get Karyawan by ID
-    [HttpGet("karyawan/KaryawanGetById/{id}")]
+    [HttpGet("karyawan/KaryawanGetById")]
     public IActionResult GetKaryawanById(int id)
     {
         try
@@ -113,7 +113,7 @@ public IActionResult CreateKaryawan([FromBody] Karyawan data_karyawan)
     }
 
     // Delete Karyawan
-    [HttpDelete("karyawan/KaryawanDelete/{id}")]
+    [HttpDelete("karyawan/KaryawanDelete")]
     public IActionResult DeleteKaryawan(int id)
     {
         try
