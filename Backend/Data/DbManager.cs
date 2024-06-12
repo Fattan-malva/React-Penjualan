@@ -558,7 +558,7 @@ public class DbManager
                         {
                             id = Convert.ToInt32(reader["id"]),
                             nama_karyawan = reader["nama_karyawan"].ToString(),
-                            tgl_lahir = reader["tgl_lahir"].ToString(),
+                            tgl_lahir = DateOnly.FromDateTime(reader.GetDateTime(reader.GetOrdinal("tgl_lahir"))),
                             jenis_kelamin = reader["jenis_kelamin"].ToString(),
                             alamat = reader["alamat"].ToString(),
                             noTlp = reader["noTlp"].ToString(),
@@ -595,7 +595,7 @@ public class DbManager
                         {
                             id = Convert.ToInt32(reader["id"]),
                             nama_karyawan = reader["nama_karyawan"].ToString(),
-                            tgl_lahir = reader["tgl_lahir"].ToString(),
+                            tgl_lahir = DateOnly.FromDateTime(reader.GetDateTime(reader.GetOrdinal("tgl_lahir"))),
                             jenis_kelamin = reader["jenis_kelamin"].ToString(),
                             alamat = reader["alamat"].ToString(),
                             noTlp = reader["noTlp"].ToString(),
