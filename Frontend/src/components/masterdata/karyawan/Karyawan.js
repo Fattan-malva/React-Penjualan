@@ -12,7 +12,7 @@ function DataKaryawan() {
   const fectData = async () => {
     const response = await axios.get("https://localhost:7142/karyawan/KaryawanGet");
     const data = await response.data;
-    setDataproduk(data);
+    setDatakaryawan(data);
     console.log(data);
   };
   const columns = [
@@ -78,10 +78,11 @@ function DataKaryawan() {
             + Data Karyawan
           </Link>
 
-          <DataTable columns={columns} data={dataproduk.data} pagination />
+          <DataTable columns={columns} data={datakaryawan.data} pagination />
         </div>
       </div>
     </div>
   );
 }
-export default DataProduk;
+
+export default DataKaryawan;

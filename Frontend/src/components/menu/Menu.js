@@ -25,6 +25,9 @@ class Menu extends Component {
 						<li>
 							<Link to="/datatransaksi">Data Transaksi</Link>
 						</li>
+						<li>
+							<Link to="/datakaryawan">Data Karyawan</Link>
+						</li>
 					</ul>
 				</header>
 			</div>
