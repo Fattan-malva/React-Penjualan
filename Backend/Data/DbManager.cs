@@ -539,9 +539,10 @@ public class DbManager
 
     //! ================================================================================================ 
     //Get All Karyawan
+
     public List<Karyawan> GetAllKaryawan()
     {
-        List<Karyawan> investorList = new List<Karyawan>();
+        List<Karyawan> karyawanList = new List<Karyawan>();
         try
         {
             using (MySqlConnection connection = new MySqlConnection(_connectionString))
@@ -556,13 +557,13 @@ public class DbManager
                         Karyawan data_karyawan = new Karyawan
                         {
                             id = Convert.ToInt32(reader["id"]),
-                            nama_karyawan = reader["Nama_karyawan"].ToString(),
-                            tgl_lahir = reader["Tgl_lahir"].ToString(),
-                            jenis_kelamin = reader["Jenis_kelamin"].ToString(),
-                            alamat = reader["Alamat"].ToString(),
-                            noTlp = reader["NoTlp"].ToString(),
+                            nama_karyawan = reader["nama_karyawan"].ToString(),
+                            tgl_lahir = reader["tgl_lahir"].ToString(),
+                            jenis_kelamin = reader["jenis_kelamin"].ToString(),
+                            alamat = reader["alamat"].ToString(),
+                            noTlp = reader["noTlp"].ToString(),
                         };
-                        investorList.Add(data_karyawan);
+                        karyawanList.Add(data_karyawan);
                     }
                 }
             }
@@ -571,72 +572,164 @@ public class DbManager
         {
             Console.WriteLine(ex.Message);
         }
-        return investorList;
+        return karyawanList;
     }
 
-    //Create Karyawan
-    public int CreateKaryawan(Karyawan data_karyawan)
+    // Get karyawan by ID
+    public Karyawan GetKaryawanById(int id)
     {
-        using (MySqlConnection connection = _connection)
+        Karyawan karyawan = null;
+        try
         {
-            string query = "INSERT INTO data_karyawan (nama_karyawan, tgl_lahir, jenis_kelamin, alamat, noTlp) VALUES (@Nama_karyawan, @Tgl_lahir, @Jenis_kelamin, @Alamat, @NoTlp)";
-            using (MySqlCommand command = new MySqlCommand(query, connection))
+            using (MySqlConnection connection = new MySqlConnection(_connectionString))
             {
-                command.Parameters.AddWithValue("@Nama_karyawan", data_karyawan.nama_karyawan);
-                command.Parameters.AddWithValue("@Tgl_lahir", data_karyawan.tgl_lahir);
-                command.Parameters.AddWithValue("@Jenis_kelamin", data_karyawan.jenis_kelamin);
-                command.Parameters.AddWithValue("@Alamat", data_karyawan.alamat);
-                command.Parameters.AddWithValue("@NoTlp", data_karyawan.noTlp);
-
-                connection.Open();
-                return command.ExecuteNonQuery();
-            }
-        }
-    }
-
-    // Cek apakah data Karyawan sudah ada apa belom
-    public int GetKaryawan(Karyawan data_karyawan)
-    {
-        int count = 0;
-        using (MySqlConnection connection = new MySqlConnection(_connectionString))
-        {
-            string query = "SELECT count(*) AS count FROM data_karyawan WHERE nama_karyawan = @Nama_karyawan";
-            using (MySqlCommand command = new MySqlCommand(query, connection))
-            {
-                command.Parameters.AddWithValue("@Nama_karyawan", data_karyawan.nama_karyawan);
-
+                string query = "SELECT * FROM data_karyawan WHERE id = @Id";
+                MySqlCommand command = new MySqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Id", id);
                 connection.Open();
                 using (MySqlDataReader reader = command.ExecuteReader())
                 {
-                    while (reader.Read())
+                    if (reader.Read())
                     {
-                        count = Convert.ToInt32(reader["count"]);
+                        karyawan = new Karyawan
+                        {
+                            id = Convert.ToInt32(reader["id"]),
+                            nama_karyawan = reader["nama_karyawan"].ToString(),
+                            tgl_lahir = reader["tgl_lahir"].ToString(),
+                            jenis_kelamin = reader["jenis_kelamin"].ToString(),
+                            alamat = reader["alamat"].ToString(),
+                            noTlp = reader["noTlp"].ToString(),
+                        };
                     }
                 }
             }
         }
-        return count;
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        return karyawan;
     }
 
-    // Update Karyawan
-    public int UpdateKaryawan(Karyawan data_karyawan)
-    {
-        using (MySqlConnection connection = _connection)
-        {
-            string query = "UPDATE data_karyawan SET jumlah = @Jumlah WHERE nama_karyawan = @Nama_karyawan";
-            using (MySqlCommand command = new MySqlCommand(query, connection))
-            {
-                command.Parameters.AddWithValue("@Nama_karyawan", data_karyawan.nama_karyawan);
-                command.Parameters.AddWithValue("@Tgl_lahir", data_karyawan.tgl_lahir);
-                command.Parameters.AddWithValue("@Jenis_kelamin", data_karyawan.jenis_kelamin);
-                command.Parameters.AddWithValue("@Alamat", data_karyawan.alamat);
-                command.Parameters.AddWithValue("@NoTlp", data_karyawan.noTlp);
+    // Create new karyawan
 
-                connection.Open();
-                return command.ExecuteNonQuery();
+    public int CreateKaryawan(Karyawan data_karyawan)
+{
+    using (MySqlConnection connection = new MySqlConnection(_connectionString))
+    {
+        string query = "INSERT INTO data_karyawan (nama_karyawan, tgl_lahir, jenis_kelamin, alamat, noTlp) VALUES (@Nama_karyawan, @Tgl_lahir, @Jenis_kelamin, @Alamat, @NoTlp)";
+        using (MySqlCommand command = new MySqlCommand(query, connection))
+        {
+            command.Parameters.AddWithValue("@Nama_karyawan", data_karyawan.nama_karyawan);
+            command.Parameters.AddWithValue("@Tgl_lahir", data_karyawan.tgl_lahir);
+            command.Parameters.AddWithValue("@Jenis_kelamin", data_karyawan.jenis_kelamin);
+            command.Parameters.AddWithValue("@Alamat", data_karyawan.alamat);
+            command.Parameters.AddWithValue("@NoTlp", data_karyawan.noTlp);
+
+            connection.Open();
+            using (var transaction = connection.BeginTransaction())
+            {
+                try
+                {
+                    command.Transaction = transaction;
+                    int result = command.ExecuteNonQuery();
+                    transaction.Commit();
+                    return result;
+                }
+                catch (MySqlException ex)
+                {
+                    transaction.Rollback();
+                    Console.WriteLine($"Error creating karyawan: {ex.Message}");
+                    throw;
+                }
             }
         }
     }
-
-
 }
+
+
+    // Check if karyawan exists
+    public int GetKaryawan(Karyawan data_karyawan)
+    {
+        int count = 0;
+        try
+        {
+            using (MySqlConnection connection = new MySqlConnection(_connectionString))
+            {
+                string query = "SELECT count(*) AS count FROM data_karyawan WHERE nama_karyawan = @Nama_karyawan";
+                using (MySqlCommand command = new MySqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@Nama_karyawan", data_karyawan.nama_karyawan);
+
+                    connection.Open();
+                    using (MySqlDataReader reader = command.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            count = Convert.ToInt32(reader["count"]);
+                        }
+                    }
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+        return count;
+    }
+
+    // Update karyawan
+
+    public int UpdateKaryawan(int id, Karyawan karyawan)
+{
+    try
+    {
+        using (MySqlConnection connection = new MySqlConnection(_connectionString))
+        {
+            string query = "UPDATE data_karyawan " +
+                           "SET nama_karyawan = @Nama_karyawan, tgl_lahir = @Tgl_lahir, jenis_kelamin = @Jenis_kelamin, alamat = @Alamat, noTlp = @NoTlp " +
+                           "WHERE id = @Id";
+            MySqlCommand command = new MySqlCommand(query, connection);
+            command.Parameters.AddWithValue("@Nama_karyawan", karyawan.nama_karyawan);
+            command.Parameters.AddWithValue("@Tgl_lahir", karyawan.tgl_lahir);
+            command.Parameters.AddWithValue("@Jenis_kelamin", karyawan.jenis_kelamin);
+            command.Parameters.AddWithValue("@Alamat", karyawan.alamat);
+            command.Parameters.AddWithValue("@NoTlp", karyawan.noTlp);
+            command.Parameters.AddWithValue("@Id", id);
+            connection.Open();
+            return command.ExecuteNonQuery();
+        }
+    }
+    catch (Exception ex)
+    {
+        throw ex;
+    }
+}
+
+    // Delete karyawan
+    public bool DeleteKaryawan(int id)
+    {
+        try
+        {
+            using (MySqlConnection connection = new MySqlConnection(_connectionString))
+            {
+                string query = "DELETE FROM data_karyawan WHERE id = @Id";
+                MySqlCommand command = new MySqlCommand(query, connection);
+                command.Parameters.AddWithValue("@Id", id);
+                connection.Open();
+                int rowsAffected = command.ExecuteNonQuery();
+                return rowsAffected > 0;
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error deleting karyawan: {ex.Message}");
+            return false;
+        }
+    }
+}
+
+
+
+
