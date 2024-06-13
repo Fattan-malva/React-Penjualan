@@ -2219,19 +2219,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Tugas it Programer Batc 6\\Pengenalan REACT.JS\\Day 5\\React-Penjualan\\Backend\\Stackup.Api.csproj",
+      "projectUniqueName": "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\Stackup.Api.csproj",
       "projectName": "Stackup.Api",
-      "projectPath": "K:\\Tugas it Programer Batc 6\\Pengenalan REACT.JS\\Day 5\\React-Penjualan\\Backend\\Stackup.Api.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "K:\\Tugas it Programer Batc 6\\Pengenalan REACT.JS\\Day 5\\React-Penjualan\\Backend\\obj\\",
+      "projectPath": "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\Stackup.Api.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\BELAJAR REACT UTS\\react-penjualan-git\\React-Penjualan\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
